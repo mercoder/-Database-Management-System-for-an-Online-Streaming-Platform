@@ -1,1 +1,0 @@
-# -Database-Management-System-for-an-Online-Streaming-Platform
